@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chat/static/css/main.b40d1b40.css",
-    "main.js": "/chat/static/js/main.c5a0956c.js",
-    "static/js/787.35cea4b2.chunk.js": "/chat/static/js/787.35cea4b2.chunk.js",
-    "static/media/send_button.png": "/chat/static/media/send_button.cce7f972efaf9447fcdf.png",
-    "index.html": "/chat/index.html",
-    "main.b40d1b40.css.map": "/chat/static/css/main.b40d1b40.css.map",
-    "main.c5a0956c.js.map": "/chat/static/js/main.c5a0956c.js.map",
-    "787.35cea4b2.chunk.js.map": "/chat/static/js/787.35cea4b2.chunk.js.map"
+    "main.css": "/simpleChat/static/css/main.b40d1b40.css",
+    "main.js": "/simpleChat/static/js/main.d22577e4.js",
+    "static/js/787.35cea4b2.chunk.js": "/simpleChat/static/js/787.35cea4b2.chunk.js",
+    "static/media/send_button.png": "/simpleChat/static/media/send_button.cce7f972efaf9447fcdf.png",
+    "index.html": "/simpleChat/index.html",
+    "main.b40d1b40.css.map": "/simpleChat/static/css/main.b40d1b40.css.map",
+    "main.d22577e4.js.map": "/simpleChat/static/js/main.d22577e4.js.map",
+    "787.35cea4b2.chunk.js.map": "/simpleChat/static/js/787.35cea4b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b40d1b40.css",
-    "static/js/main.c5a0956c.js"
+    "static/js/main.d22577e4.js"
   ]
 }
